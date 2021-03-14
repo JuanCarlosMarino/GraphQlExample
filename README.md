@@ -34,4 +34,4 @@ $ cd GraphQlExample
 
 ## License 📄
 
-This project is under the License (MPL-2.0 License) - see the file [LICENSE.md] (LICENSE.md) for details
+This project is under the License (MPL-2.0 License) - see the file LICENSE.md for details
