@@ -2,7 +2,7 @@
 
 This project is a simple implementation of graphQl queries against a simulated database by means of an array. Also, the apollo server is implemented. It builds on node.js.
 
-### Requirements 📋
+## Requirements 📋
 
 ```
 make sure you have node.js installed
