@@ -1,5 +1,11 @@
 # GraphQlExample
 
+![GitHub all releases](https://img.shields.io/github/downloads/JuanCarlosMarino/GraphQlExample/total?color=%2333E0FF&logo=GitHub&logoColor=3364FF)
+![GitHub](https://img.shields.io/github/license/JuanCarlosMarino/GraphQlExample?color=FF3333&logo=Mozilla&logoColor=CF2B2D)
+![GitHub top language](https://img.shields.io/github/languages/top/JuanCarlosMarino/GraphQlExample)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JuanCarlosMarino/GraphQlExample)
+![Twitter Follow](https://img.shields.io/twitter/follow/mireminombre?style=social)
+
 This project is a simple implementation of graphQl queries against a simulated database by means of an array. Also, the apollo server is implemented. It builds on node.js.
 
 ## Requirements 📋
